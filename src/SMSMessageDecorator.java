@@ -2,7 +2,7 @@
 
 public class SMSMessageDecorator extends MessageDecorator {
 
-    private static final int msgSize = 1;
+    private static final int msgSize = 5;
 
     public SMSMessageDecorator(Message m){
         super(m);
